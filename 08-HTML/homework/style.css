@@ -1,0 +1,21 @@
+
+h1{
+    color: red;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    background-color: chartreuse;
+    width: 500px;
+    height: 600px;
+    color: darkblue;
+    padding: 50px;
+    border: 10px solid rebeccapurple;
+}
+#Spanid{
+    font-size: 18px;
+    margin: 50px;
+}
+
+
